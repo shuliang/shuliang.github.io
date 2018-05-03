@@ -1,0 +1,8 @@
+shuliang's blog
+
+Powered by:
+- [[https://www.gnu.org/software/emacs/][Emacs]]
+- [[https://orgmode.org/][org-mode]]
+- [[http://gohugo.io/][hugo]]
+- [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]]
+- [[https://github.com/masasam/emacs-easy-hugo][emacs-easy-hugo]]
