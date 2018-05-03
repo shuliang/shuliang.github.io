@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on shuliang&#39;s blog / 温冰凉酒，写滚烫字</title>
+    <link>https://shuliang.github.io/tags/</link>
+    <description>Recent content in Tags on shuliang&#39;s blog / 温冰凉酒，写滚烫字</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 05 Apr 2018 23:34:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://shuliang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Original Poetry</title>
+      <link>https://shuliang.github.io/tags/original-poetry/</link>
+      <pubDate>Thu, 05 Apr 2018 23:34:00 +0800</pubDate>
+      
+      <guid>https://shuliang.github.io/tags/original-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>https://shuliang.github.io/tags/poetry/</link>
+      <pubDate>Thu, 05 Apr 2018 23:34:00 +0800</pubDate>
+      
+      <guid>https://shuliang.github.io/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
